@@ -1,5 +1,3 @@
-install.packages("devtools")
-
 devtools::install_github("tylerferguson/NBAinjuries")
 
 library(NBAinjuries)
